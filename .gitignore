@@ -8,6 +8,9 @@
 *.so
 *.dylib
 
+# DB AOF file
+*.aof
+
 # Test binary, built with `go test -c`
 *.test
 
